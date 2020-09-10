@@ -1,5 +1,5 @@
 # SmartH-001
-Single Board Computer - HUD (work-in-progress)
+Single Board Computer - Drone Controller (work-in-progress)
 - NXP LS1012A - ARM Cortex-A53 microprocessor, 1-Core 64-Bit
   - 8Gb DDR3L
   - 32Gb eMMC
